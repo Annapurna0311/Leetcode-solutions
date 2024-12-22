@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
