@@ -38,23 +38,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Simulation
 |  |
