@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0139-word-break) |
 | [0275-h-index-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0494-target-sum](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0139-word-break) |
+| [0494-target-sum](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
