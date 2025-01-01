@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0139-word-break) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
