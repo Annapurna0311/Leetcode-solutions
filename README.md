@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
