@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Math
 |  |
@@ -236,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
