@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
