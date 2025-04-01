@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2145-grid-game) |
+| [2262-solving-questions-with-brainpower](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 ## Trie
 |  |
