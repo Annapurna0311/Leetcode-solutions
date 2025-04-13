@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2050-count-good-numbers](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Annapurna0311/Leetcode-solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
